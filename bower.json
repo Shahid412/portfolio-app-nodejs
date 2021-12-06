@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-management-website",
+  "description": "Portfolio Website deployed",
+  "main": "",
+  "authors": [
+    "Blank Chip"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "https://github.com/Shahid412/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "font-awesome": "^4.5.0",
+    "bootstrap": "^3.3.6"
+  }
+}
